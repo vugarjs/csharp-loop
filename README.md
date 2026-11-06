@@ -1,6 +1,6 @@
 # C# Alqoritm Məşqləri
 
-Bu qovluqda C# öyrənərkən yazdığım sadə alqoritm nümunələri yerləşir.
+Bu repozitoriyada C# öyrənərkən yazdığım sadə alqoritm nümunələri yerləşir.
 
 ## Mövzular
 
