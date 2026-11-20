@@ -35,6 +35,14 @@ Bu repozitoriyada C# öyrənərkən yazdığım sadə alqoritm nümunələri yer
 ### 5. 1–50 arasında 4-ə bölünən ədədləri çap etmək
 - `% 4 == 0` şərti ilə uyğun ədədlər ekrana çıxarılır.
 
+## Məşqləri yoxlamaq üçün nümunələr
+
+- Cüt ədədlər üçün: `2`, `4`, `6`
+- Tək ədədlər üçün: `1`, `3`, `5`
+- 15-ə bölünən ədədlər üçün: `15`, `30`, `45`
+
+Bu nümunələr dövr və şərtlərin nəticəsini əl ilə yoxlamağa kömək edir.
+
 ## Məqsəd
 
 Bu layihənin məqsədi C# dilində əsas proqramlaşdırma məntiqini və alqoritmik düşünmə bacarığını inkişaf etdirməkdir. Məşqlər sadədən mürəkkəbə doğru davam etdiriləcək.
