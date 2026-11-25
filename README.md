@@ -37,7 +37,7 @@ Bu repozitoriyada C# öyrənərkən yazdığım sadə alqoritm nümunələri yer
 
 ## Məşqləri yoxlamaq üçün nümunələr
 
-- Cüt ədədlər üçün: `2`, `4`, `6`
+- Birinci məşqdə 24 cüt ədəd var. Gözlənilən cəm `2 + 4 + … + 48 = 600` olur.
 - Tək ədədlər üçün: `1`, `3`, `5`
 - 15-ə bölünən ədədlər üçün: `15`, `30`, `45`
 
